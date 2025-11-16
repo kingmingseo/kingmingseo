@@ -1,17 +1,48 @@
-<!--
-**kingmingseo/kingmingseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 보여주는 방법을 고민하는 개발자
 
-Here are some ideas to get you started:
+> **사용자**에게는 직관적이고 일관된 경험을,  
+> **팀원**에게는 읽기 쉬운 코드와 명확한 구조를 지향합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+좋은 코드는 좋은 경험을 만들고, 좋은 경험은 비즈니스의 성장으로 이어진다고 믿습니다.
+
+## 🛠️ Tech Stack
+
+### Language
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Framework & Library
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### State Management
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+
+### Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![kingmingseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingmingseo&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmingseo&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎯 Algorithm
+
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=multi1971)](https://solved.ac/multi1971/)
 
+</div>
