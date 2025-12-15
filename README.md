@@ -3,7 +3,10 @@
 > **사용자**에게는 직관적이고 일관된 경험을,  
 > **팀원**에게는 읽기 쉬운 코드와 명확한 구조를 지향합니다.
 
-좋은 코드는 좋은 경험을 만들고, 좋은 경험은 비즈니스의 성장으로 이어진다고 믿습니다.
+좋은 코드는 좋은 경험을 만들고,  
+좋은 경험은 비즈니스의 성장으로 이어진다고 믿습니다.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -18,16 +21,22 @@
 
 ### Styling
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled_Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### State Management
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=react&logoColor=white)
+
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -36,6 +45,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmingseo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
 
 ## 🎯 Algorithm
 
