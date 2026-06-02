@@ -41,15 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingmingseo&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Algorithm
 
